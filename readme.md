@@ -1,1 +1,1 @@
-### Simple Auction Smart Contract
+### Simple Dutch Auction Smart Contract
